@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>attachments/background.png</file>
+        <file>attachments/ico_capoo.ico</file>
+    </qresource>
+</RCC>
